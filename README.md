@@ -1,20 +1,20 @@
-u-can-t-hack-it
+##u-can-t-hack-it
 ===============
 
-Sister project for U-Hack-It...  An interactive tutorial on website security issues - a non-hackable/secured revision for U-Hack-it
+###Sister project for U-Hack-It...  An interactive tutorial on website security issues - a non-hackable/secured revision for U-Hack-it
 
-Version: 0.1
-Author: Securedesign
-Author URI: http://securedesign.ca
-License: GPL3 see license.txt
-
-
+- Version: 0.1
+- Author: Securedesign
+- Author URI: http://securedesign.ca
+- License: GPL3 see license.txt
 
 
 
 
 
-Original Project:
+
+
+###Original Project:
 
 U Hack It!
 An interactive tutorial on website security issues - a hackable website deployed on hack.me
@@ -23,11 +23,11 @@ The purpose of this project is to demonstrate how poor web programming practices
 
 Thus, this code should NOT, under any circumstance, be used on a real website.
 
-Version: 0.1
-Author: Driftwood Cove Designs
-Author URI: http://driftwoodcove.ca
-License: GPL3 see license.txt
-INSTALLATION:
+- Version: 0.1
+- Author: Driftwood Cove Designs
+- Author URI: http://driftwoodcove.ca
+- License: GPL3 see license.txt
+- INSTALLATION:
 
 1) Create a MySQL DB (other DBMS may work, but not tested) - edit DB name, user, p/w into class-db.php - all tables are created by app as required.
 
