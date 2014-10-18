@@ -1,16 +1,15 @@
 ##u-can-t-hack-it
 ===============
 
-###Sister project for U-Hack-It...  An interactive tutorial on website security issues - a non-hackable/secured revision for U-Hack-it
+###Sister project for U-Hack-It...  An interactive tutorial on website security issues - a non-hackable/secured revision for U-Hack-it. The major difference it this version attempts to hack back, and take counter measures.
+Welcome to offensive security !
 
 - Version: 0.1
 - Author: Securedesign
 - Author URI: http://securedesign.ca
 - License: GPL3 see license.txt
 
-
-
-
+ Release date: Nov 22
 
 
 
@@ -31,7 +30,7 @@ Thus, this code should NOT, under any circumstance, be used on a real website.
 
 1) Create a MySQL DB (other DBMS may work, but not tested) - edit DB name, user, p/w into class-db.php - all tables are created by app as required.
 
-2) If you are using .htaccess mod_rewrite, you can (optionally) use clean URL's setting in app-init.php Otherwise, ensure CLEAN_URLS is FALSE in app-init.php (default setting for use on hack.me).
+2) If you are using ```.htaccess mod_rewrite, you can (optionally) use clean URL's setting in app-init.php Otherwise, ensure CLEAN_URLS is FALSE in app-init.php ``` (default setting for use on hack.me).
 
 3) Install the app in htdocs, and point your browser at index.php
 
