@@ -1,7 +1,9 @@
 ##u-can-t-hack-it
 ===============
 
-###Sister project for U-Hack-It...  An interactive tutorial on website security issues - a non-hackable/secured revision for U-Hack-it. The major difference it this version attempts to hack back, and take counter measures.
+###Sister project for U-Hack-It...  An interactive tutorial on website security issues - a non-hackable/secured revision for U-Hack-it. (https://github.com/powderflask/u-hack-it)
+
+####The major difference it this version attempts to hack back, and take counter measures.
 Welcome to offensive security !
 
 - Version: 0.1
